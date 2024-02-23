@@ -1,2 +1,2 @@
 # Crud-employee-api
-Aplicação CRUD, utilizando PostgreSQL, Node e Angular
+Aplicação CRUD, utilizando PostgreSQL e Node
